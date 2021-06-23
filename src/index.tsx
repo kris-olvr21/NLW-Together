@@ -4,6 +4,8 @@ import App from './App';
 
 import './services/firebase';
 
+import './styles/global.scss'
+
 ReactDOM.render( /* Render: renderiza na tela */
   /* Coloca esse conteúdo dentro do id="root" do index.html */
   <React.StrictMode>
@@ -11,4 +13,3 @@ ReactDOM.render( /* Render: renderiza na tela */
   </React.StrictMode>, 
   document.getElementById('root') /* Busca o id="root" do index.html */
 );
-
