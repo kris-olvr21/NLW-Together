@@ -1,4 +1,8 @@
-# NLW-Together 🚀
+<p align= "center">
+  <img src="src/assets/images/logo.svg" alt="Logo Letmeask" />
+ </p>
+
+# NLW-Together (ReactJS) 🚀
 
 Facing the NLW challenge of the week for the second time, I chose the ReactJS track again to get to know this technology even better. The project proposed by Rocketseat this time, called letmeask, is basically a platform for question management. <br><br>
 | Encarando o desafio da semana da NLW pela segunda vez, escolhi a trilha ReactJS novamente para conhecer ainda melhor essa tecnologia. O projeto proposto pela Rocketseat desta vez, chamado letmeask, é basicamente uma plataforma para gerenciamento de perguntas.
